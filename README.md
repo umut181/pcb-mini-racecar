@@ -1,4 +1,4 @@
-# Mini Racecar Electronics
+# Mini Racecar PCB
 
 A custom electronics board for a **2WD, IR-controlled differential-drive robot vehicle**, designed in **KiCad**.
 
